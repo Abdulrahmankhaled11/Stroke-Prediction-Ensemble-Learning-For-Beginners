@@ -7,3 +7,4 @@
 - Using many Algorithms For Classification
 - Introduction To Ensemble Learning For Beginners
   
+![](https://github.com/Abdulrahmankhaled11/Stroke-Prediction-Ensemble-Learning-For-Beginners/blob/main/Image.jpg)
