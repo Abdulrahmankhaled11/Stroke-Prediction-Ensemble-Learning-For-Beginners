@@ -4,3 +4,6 @@
 - Data Cleaning
 - Data Visualization & Analytics
 - Preprocessing For ML Models
+- Using many Algorithms For Classification
+- Introduction To Ensemble Learning For Beginners
+  
